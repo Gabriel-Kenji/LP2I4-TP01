@@ -1,4 +1,5 @@
 public class TestPersons {
+    //GABRIEL KENJI UTIYAMA CB3012069
     public static void main(String[] args){
         Student student = new Student("Gabriel Kenji", "Algum lugar", "ADS", 2023, 10);
         Staff staff = new Staff("Tuller" , "ALgum lugar", "IFSP CBT", 10000);

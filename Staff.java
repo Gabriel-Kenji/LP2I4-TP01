@@ -1,4 +1,5 @@
 public class Staff extends Person {
+    //GABRIEL KENJI UTIYAMA CB3012069
     String school;
     double pay;
 

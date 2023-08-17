@@ -1,5 +1,6 @@
 public class Person {
-    String name;
+    //GABRIEL KENJI UTIYAMA CB3012069
+     name;
     String address;
 
     public String getName() {
